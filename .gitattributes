@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+acousticbrainz-mediaeval2017-tagtraum-train.tsv filter=lfs diff=lfs merge=lfs -text
+acousticbrainz-mediaeval2017-lastfm-train.tsv filter=lfs diff=lfs merge=lfs -text
