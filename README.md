@@ -22,19 +22,19 @@ In this section first I thought about take the most important subgenres, but the
 
 Here I have just tried to display a comparative table with the average of all the features for all the genres. I also have a comparative graph that show better this subgenre-feature relationship.
 
-
+<a><img src="https://github.com/MarcSM/music-classification-acousticbrainz/blob/master/Output%20Plots/subgenres_comparative_graph.png?raw=true" alt="thumbnail" width="100%"></a>
 
 ### 5. Making comparative plots of the distributions of the feature values for each subgenre.
 
 In this secton we have box plots, not computed with the average like in the previous graph, but with all the feature values of all the recordings for every sub genre. I won’t show here all the plots, as they are many and this will get unnecessarily long, but I will post one about the bpm across all the subgenres that I’ve particularly liked.
 
-
+<a><img src="https://github.com/MarcSM/music-classification-acousticbrainz/blob/master/Output%20Plots/readme_rhythm_bpm_box_plot.png?raw=true" width="100%"></a>
 
 ### 6. Making comparative plots analyzing high-level (classifier based) music features.
 
 Here the same, the code and the “Output Plots” folder are plenty of plots. There are plots showing the correlations of music mood estimations (happy, sad, relaxed, aggressive, party) to subgenres and others showing the correlations of vocal/instrumental, male/female voice, danceability classifier estimations to subgenres. The high level features sometimes nail the emotions, but sometimes not, here is one that I think it’s quite decent about danceability, here the numbers are very tiny, please see them all in the folders. 
 
-
+<a><img src="https://github.com/MarcSM/music-classification-acousticbrainz/blob/master/Output%20Plots/readme_danceable_box_plot.png?raw=true" width="100%"></a>
 
 ## Setup and run
 
